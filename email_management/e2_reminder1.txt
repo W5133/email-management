@@ -1,0 +1,22 @@
+<p>Hello W5133 Member or Affiliate,</p>
+
+<p>Just a quick reminder to complete your W5133 reporting. We have 30 days from the conclusion of the annual meeting (March 27) to compile and submit our report. I ask that you submit your report by Sunday March 22, so I have time to compile them into NIMSS.</p>
+
+<p><strong>Google Form Link:</strong>
+<a href='https://forms.gle/114uCWJ9Eec9xKhK8'>https://forms.gle/114uCWJ9Eec9xKhK8</a></p>
+
+<p>Let me know if you have any questions</p>
+
+<hr>
+<p><strong>Note:</strong> You are receiving this email because you are listed as a project participant in NIMSS. To stop receiving these emails, complete the <a href='{unsub_url}'>unsubscribe form</a>.</p>
+
+<p>As a reminder, Lee created this great website for our multistate project,
+<a href='https://w5133.github.io/'>https://w5133.github.io/</a>,
+where you can find past and upcoming meeting information.</p>
+
+
+<hr>
+<p style='font-size:12px;color:#666;'>
+To unsubscribe from these emails, complete the <a href='{unsub_url}'>unsubscribe form</a>.
+Your email address is prefilled. Check it and click Submit to confirm your request.
+</p>

@@ -1,0 +1,30 @@
+<p>Hello Members and Friends of W5133!</p>
+
+<p>I'm resending the announcement because I realized that the unsubscribe link at the bottom of the message was not working properly. Some folks were accidentally unsubscribed. If you received this message in October, the information is the same. </p>
+
+<p>The <strong>2027 W5133 meetings will take place in Fort Collins, Colorado, on March 25&ndash;26.</strong> We will begin with a social gathering on Wednesday evening, March 24, followed by full days of sessions on Thursday and Friday, March 25 and 26. Sessions will be held at the <a href='https://www.fortcollins.gov/Venues/C4C'>Center for Creativity</a>.</p>
+
+<p><strong>Abstracts are due December 15, 2026.</strong> Submit your abstract via <a href='https://forms.gle/Rf2KKbMf63APgNi2A'>this Google Form</a>.</p>
+
+<p>We will announce the agenda on <strong>January 25, 2027</strong>.</p>
+
+<p>These meetings are always a great time to reconnect with other environmental economists, present new work, and learn a few new things. And if that is not enough, Fort Collins has also been named one of the <a href='https://www.cnn.com/travel/fort-collins-colorado-best-towns-america-2026'>&ldquo;best places to visit!&rdquo;</a></p>
+
+
+<p>We have reserved a block of rooms at the Elizabeth Hotel. <a href='https://app.marriott.com/resview2?id=1789145728352&amp;key=GRP&amp;app=resvlink'>Book a room in the W5133 room block</a>. This link should work until February 22, 2027. </p>
+
+<p>Other hotel options in Fort Collins include:</p>
+<ul>
+  <li><a href='https://thearmstronghotel.com/'>The Armstrong Hotel</a></li>
+  <li><a href='https://www.bestwestern.com/en_US/book/hotels-in-fort-collins/the-buxton-bw-signature-collection/propertyCode.06040.html'>The Buxton</a> (formerly the Best Western University Inn on South College Avenue)</li>
+  <li><a href='https://www.hilton.com/en-gb/hotels/fnlcohf-hilton-fort-collins/'>Hilton Fort Collins</a></li>
+</ul>
+
+<p>We will post information and updates about the meeting at the <a href='https://w5133.github.io'>W5133 website</a>. We look forward to seeing you in Fort Collins!</p>
+
+<hr>
+<p style='font-size:12px;color:#666;'>
+You are receiving this email because you are on the W5133 mailing list.
+To unsubscribe, complete the <a href='{unsub_url}'>unsubscribe form</a>.
+
+</p>
